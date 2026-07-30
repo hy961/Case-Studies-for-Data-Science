@@ -20,7 +20,7 @@ Safety might involve.
 ## Method
 
 TF-IDF with 10,000 features, unigrams and bigrams, English stop words removed.
-80/20 train/test split, `random_state=42`. Models are LinearSVC and Logistic
+80/20 train/test split, `random_state=999`. Models are LinearSVC and Logistic
 Regression. For Jigsaw, One-vs-Rest handles the multi-label setup, and it's run
 with both balanced and default class weights to compare the effect on
 precision/recall.
