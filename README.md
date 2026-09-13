@@ -1,4 +1,4 @@
-# Case Studies for Data Science for Individual Tasks 1 and 2
+# Case Studies for Data Science for Individual Tasks 1 (part 1.3) and 2
 Hansen Yonatan (s4178876), RMIT University
 
 Comparing two classifiers across two content moderation datasets, as part of an
